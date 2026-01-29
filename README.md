@@ -65,8 +65,17 @@ pip install -r requirements.txt
 OPENAI_API_KEY=sk-...
 TAVILY_API_KEY=tvly-...
 ```
+
+
 ### 5.3. 실행
 Streamlit 애플리케이션을 실행합니다.
 
 ```Bash
 streamlit run main.py
+```
+
+### 실행 화면
+<img width="1322" height="608" alt="스크린샷 2026-01-30 081427" src="https://github.com/user-attachments/assets/db171018-45ff-470a-8b7e-a97f4b8580a6" />
+<img width="1306" height="832" alt="스크린샷 2026-01-30 081435" src="https://github.com/user-attachments/assets/432da2b4-4f6b-4424-ab2b-037d267c7fa2" />
+<img width="935" height="575" alt="스크린샷 2026-01-30 081847" src="https://github.com/user-attachments/assets/e9cedddd-c489-48ce-916b-959e28396de5" />
+
